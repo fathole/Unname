@@ -4,3 +4,5 @@ Unnamed/.vsconfig
 Unnamed/Assembly-CSharp.csproj
 Unnamed/Assembly-CSharp-Editor.csproj
 Unnamed/UInname.sln
+Unnamed/Temp/
+Unnamed/obj/
